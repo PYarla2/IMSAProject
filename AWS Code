@@ -1,8 +1,8 @@
 import boto3
 from botocore.exceptions import NoCredentialsError
 
-ACCESS_KEY = 'AKIAZM63WQG7NRS4ACNH'
-SECRET_KEY = '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'
+ACCESS_KEY = 'access key'
+SECRET_KEY = 'secret key'
 
 bucket = 'pythonbucket12'
 local_file = 'C:\\Users\\sanum\\OneDrive\\Desktop\\imsa_file.pdf'
