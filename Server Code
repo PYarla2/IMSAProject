@@ -6,8 +6,8 @@ source = 'C:\\Users\\sanum\\OneDrive\\Desktop\\imsa_file.pdf'
 # dest = r'/home/user/file.txt'
 hostname = '192.168.86.40'
 port = 80 # default port for SSH
-username = 'ipavithray@gmail.com'
-password = 'Pavithra@1'
+username = 'username'
+password = 'password'
 #EXQ-B5S-60H
 try:
     #t= paramiko.client.SSHClient()
